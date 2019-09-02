@@ -7,6 +7,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "zeromq": "4.2.1"
+  }
 }
