@@ -1,7 +1,9 @@
 .DS_Store
+status.md
 code/
 jwnode2-code/
 jwnode2-code.zip
+
 networking/node_modules
 microservices/node_modules/
-status.md
+databases/node_modules
